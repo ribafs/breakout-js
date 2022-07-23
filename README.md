@@ -20,3 +20,6 @@ Vide tutorial
 Caso queira uma versão maior e traduzida veja abaixo na pasra www
 
 https://github.com/ribafs/breakout
+
+## Outros jogos aqui
+- https://github.com/ribafs?tab=repositories&q=game&type=&language=&sort=
