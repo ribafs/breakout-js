@@ -14,3 +14,9 @@ https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_J
 ## Licença
 
 Vide tutorial
+
+## Obs
+
+Caso queira uma versão maior e traduzida veja abaixo na pasra www
+
+https://github.com/ribafs/breakout
